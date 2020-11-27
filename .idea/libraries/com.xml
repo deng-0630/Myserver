@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com">
+    <CLASSES>
+      <root url="file://D:/apache-maven-3.6.3/repository/com" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://D:/apache-maven-3.6.3/repository/com" recursive="false" />
+  </library>
+</component>
